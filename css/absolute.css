@@ -1,0 +1,34 @@
+.main-content{
+	margin: 0 auto;
+	width:960px;
+	height: 50px;
+	position: relative;
+}
+.sidebar{
+	width: 200px;
+	height: 700px;
+	background-color: purple; 
+	float: left;
+	position: relative;
+}
+.body{
+	background-color: red;
+	width: 960px;
+	height: 50px;
+}
+.body1{
+	background-color: green;
+	width: 660px;
+	height: 600px;
+	float: left;
+	position: absolute;
+	top: 20px;
+	left: 50px;
+}
+
+.footer{
+	width: 960px;
+	height: 50px;
+	float: left;
+	background-color: blue;
+}
