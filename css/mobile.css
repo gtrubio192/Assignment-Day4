@@ -1,0 +1,78 @@
+.content{
+	padding: 2em;
+	margin:0 auto;
+	max-width: 800px;
+	margin-bottom: 50px;
+	line-height: 1.6em;
+}
+
+.stuff{
+	position: fixed;
+	top:0;
+	left: 0;
+	display: block;
+	background: rgba(0,0,0,0.7);
+	/*background: black;*/
+	width: 2em;
+	height: auto;
+	padding: 2.1em 1.6em;
+}
+.wrapper{
+	padding: 0 32em;
+}
+
+.title{
+	border-bottom: 1px solid #eee;
+	color:#333;
+	padding: 2.5em 2em 0;
+	text-align: center;
+	font-family: sans-serif;
+}
+.title h2{
+	font-weight: 300;
+	color: #ccc;
+	margin-top: 0;
+	padding: 0;
+}
+.title h1{
+	font-weight: 300;
+	margin-top: .2em 0;
+	font-size: 3em
+}
+.content-subhead{
+	/*margin-top: 50px;*/
+	/*margin-bottom: 20px;*/
+	background-color: blue;
+	height: 25px;
+	widows: auto ;
+	font-size: 1.5em
+	font-weight:300;
+	margin:.83em 0;
+	line-height: 1.6em;
+	font-family: sans-serif;
+	margin: 50px 0 20px 0;
+}
+.content-subhead h2{
+	font-size: 1.5em;
+}
+
+p {
+	margin: 16px;
+	background-color: green;
+	font-family: sans-serif;
+}
+.how-to{
+
+}
+.images{
+	display: inline-block;
+	line-height: 1.6em;
+	height: 101px;
+	width: 100%;
+	background-color: red;
+	/*text-align: center*/
+	margin:0 auto;
+}
+.resize{
+
+}
